@@ -8,5 +8,7 @@
     <artifactId>p2p-parent</artifactId>
     <version>1.0.0</version>
 
+    <dependencies>
 
+    </dependencies>
 </project>
